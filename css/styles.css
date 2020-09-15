@@ -1,0 +1,152 @@
+body{
+	margin: 0;
+	text-align: center;
+	
+
+}
+h1{
+	font-size: 90px;
+	margin-top: 0;
+	position: relative;
+	bottom: 0px;
+	font-family: 'Sedgwick Ave', cursive;
+	
+	
+	color: teal;
+}
+.prog{
+	position: relative;
+	bottom: 20px;
+	font-size: 40px;
+}
+h2{
+	color: teal;
+}
+h3{
+	color: teal;
+}
+p{
+	position: relative;
+	bottom: 40px;
+	font-family: 'Noto Sans JP', sans-serif;
+	color: darkslategrey;
+	
+
+}
+
+
+
+.Top-container{
+	background-color: aliceblue;
+	position: relative;
+	padding: 200px;
+
+
+	
+}
+
+.bottom-cloud{
+	position: absolute;
+	top: 300px;
+	left: 180px;
+}
+.top-cloud{
+	position: relative;
+	
+	left: 350px; 
+}
+.desc{
+	color: #66BFBF;
+}
+.sun{
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
+.Hi{
+	font-size: 40px;
+}
+.sk{
+	font-size: 40px;
+}
+.pro{
+	font-size: 30px;
+}
+hr{
+	border-style: dotted none none;
+	border-width: 10px;
+	height: 10px;
+	width: 50%;
+	border-color: grey;
+}
+.middle-container{
+	background-color: whitesmoke;
+	
+}
+.bottom-container{
+	background-color: #66BFBF;
+	padding: 50px 0 30px 0;
+}
+.skill-row{
+	width: 55%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+.code{
+	float: left;
+	margin-right: 25px;
+}
+.tacho{
+	float: right;
+	position: relative;
+	bottom: 30px;
+}
+.profile{
+	width: 55%;
+	margin: 100px auto 100px auto;
+}
+
+.footer-link{
+	font-family: 'Noto Sans JP', sans-serif;
+	margin: 0 20px 0 10px;
+	font-size: 20px;
+	cursor: pointer;
+
+}
+.cont{
+	color: teal;
+	width: 55%;
+	margin: 40px auto 60px auto;
+}
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #105b6e 5%, #104352 100%);
+	background-color:#105b6e;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:19px;
+	font-weight:bold;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #104352 5%, #105b6e 100%);
+	background-color:#104352;
+	
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+	color: darkcyan;
+}
+a:hover{
+	color: midnightblue;
+	transition: 0.5s ease-in;
+}
